@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Support Requests", "Support Requests\Support Requests.csproj", "{BA0C2C17-29E7-440D-A638-CFDE3B5EE6E2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delivery Service", "Support Requests\Delivery Service.csproj", "{BA0C2C17-29E7-440D-A638-CFDE3B5EE6E2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
